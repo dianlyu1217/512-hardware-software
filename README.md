@@ -20,6 +20,8 @@ Sensor Device
   - Digital ambient light sensor providing illuminance measurements in lux.
   - Communicates over an I2C interface.
   - Wide range and high resolution.
+![image](https://github.com/dianlyu1217/514-hardware-software/assets/146486958/1862f83d-e6a8-4bfa-9244-9ba8aef1f511)
+
 
 Display Device
 1. LCD Display (16x2 Character LCD)
@@ -30,6 +32,9 @@ Display Device
   - NEMA 17 stepper motor is used to adjust the display's position or an indicator based on the plant's health.
   - The A4988 driver allows precise control of the motor's steps and direction.
   - Integration with the Arduino for responsive adjustments according to the sensor readings.
+
+![image](https://github.com/dianlyu1217/514-hardware-software/assets/146486958/ef5413a6-4e63-4114-9bee-7dcfe16c4281)
+
 
 Communication between Devices
 ![image](https://github.com/dianlyu1217/514-hardware-software/assets/146486958/9bc1bef9-d57f-4ead-b482-bf24ffda68d4)

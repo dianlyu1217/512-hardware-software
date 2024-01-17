@@ -1,0 +1,12 @@
+Supply Voltage	3.3 - 6 V
+Supply Current	up to 190 µA
+I2C Address
+Default	0x23
+ADDR Pin High	0x5C
+Resolution
+High Resolution Mode	1 lx
+Low Resolution Mode	4 lx
+Board Dimensions:
+Length	18.6mm (0.732")
+Width	14.5mm (0.571")
+Weight (Including Pins)	1.1g (0.039oz)

@@ -1,0 +1,9 @@
+Low cost
+3 to 5V power and I/O
+2.5mA max current use during conversion (while requesting data)
+Good for 0-100% humidity readings with 2-5% accuracy
+Good for -40 to 80°C temperature readings ±0.5°C accuracy
+No more than 0.5 Hz sampling rate (once every 2 seconds)
+Body size 27mm x 59mm x 13.5mm (1.05" x 2.32" x 0.53")
+4 pins, 0.1" spacing
+Weight (just the DHT22): 2.4g

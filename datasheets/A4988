@@ -1,0 +1,8 @@
+Minimum operating voltage: 8V
+Maximum operating voltage: 35V
+Continuous current per phase: 1A
+Maximum current per phase: 2A (with cooling)
+Minimum logic voltage: 3V
+Maximum logic voltage: 5.5V
+Thermal shutdown circuitry, Ground fault protection, Load short-circuit protection
+Microstep resolutions: Full, 1/2, 1/4, 1/8 and 1/16

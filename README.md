@@ -1,6 +1,8 @@
 Smart Plant Health Monitoring System
 
 This system utilizes temperature, humidity, and light intensity sensors to monitor plant health. It displays real-time data and health indicators on an LCD, with a stepper motor adjusting the display based on the plant's condition.
+![image](https://github.com/dianlyu1217/514-hardware-software/assets/146486958/9bc1bef9-d57f-4ead-b482-bf24ffda68d4)
+
 
 Sensor Device
 1. Temperature Sensor (DS18B20)

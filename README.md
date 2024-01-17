@@ -1,7 +1,10 @@
 Smart Plant Health Monitoring System
 
 This system utilizes temperature, humidity, and light intensity sensors to monitor plant health. It displays real-time data and health indicators on an LCD, with a stepper motor adjusting the display based on the plant's condition.
-![image](https://github.com/dianlyu1217/514-hardware-software/assets/146486958/9bc1bef9-d57f-4ead-b482-bf24ffda68d4)
+
+<img width="1093" alt="截屏2024-01-16 18 28 54" src="https://github.com/dianlyu1217/514-hardware-software/assets/146486958/4a516c44-3955-4db5-8441-28487bc0dd36">
+
+
 
 
 Sensor Device
@@ -29,6 +32,7 @@ Display Device
   - Integration with the Arduino for responsive adjustments according to the sensor readings.
 
 Communication between Devices
+![image](https://github.com/dianlyu1217/514-hardware-software/assets/146486958/9bc1bef9-d57f-4ead-b482-bf24ffda68d4)
 1. Data Collection
   - The temperature, humidity, and light intensity sensors collect environmental data around the plant.
   - Each sensor sends its data to the microcontroller (Arduino UNO) using appropriate communication protocols (One-wire for DS18B20, single-wire for DHT22, and I2C for BH1750).
